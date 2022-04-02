@@ -1,0 +1,63 @@
+{
+    "message": "all products",
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "product_name": "Mide Kelepçesi",
+            "image": "https://fakeimg.pl/350x200/?text=Mide Kelepçesi",
+            "sequence": 7
+        },
+        {
+            "id": 2,
+            "product_name": "Midi Doğum Paketi",
+            "image": "https://fakeimg.pl/350x200/?text=Midi Doğum Paketi",
+            "sequence": 2
+        },
+        {
+            "id": 3,
+            "product_name": "Altın Check Up",
+            "image": "https://fakeimg.pl/350x200/?text=Altın Check Up",
+            "sequence": 1
+        },
+        {
+            "id": 4,
+            "product_name": "Göz Kapağı Estetiği",
+            "image": "https://fakeimg.pl/350x200/?text=Göz Kapağı Estetiği",
+            "sequence": 5
+        },
+        {
+            "id": 5,
+            "product_name": "Tüm Vücut MR Check Up",
+            "image": "https://fakeimg.pl/350x200/?text=Tüm Vücut MR Check Up",
+            "sequence": 3
+        },
+        {
+            "id": 6,
+            "product_name": "Saç Ekimi",
+            "image": "https://fakeimg.pl/350x200/?text=Saç Ekimi",
+            "sequence": 9
+        },
+        {
+            "id": 7,
+            "product_name": "Sakal Ekimi",
+            "image": "https://fakeimg.pl/350x200/?text=Sakal Ekimi",
+            "sequence": 8
+        },
+        {
+            "id": 8,
+            "product_name": "Boyun Germe",
+            "image": "https://fakeimg.pl/350x200/?text=Boyun Germe",
+            "sequence": 6
+        },
+        {
+            "id": 9,
+            "product_name": "Kepçe Kulak Estetiği",
+            "image": "https://fakeimg.pl/350x200/?text=Kepçe Kulak Estetiği",
+            "sequence": 4
+        }
+    ],
+    "meta": {
+        "length" : 9
+    }
+}
